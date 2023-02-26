@@ -1,1 +1,9 @@
 node_modules
+javascript/python/movie_list.pkl
+javascript/python/sentiment.pkl
+javascript/python/similarity.pkl
+javascript/python/vectorizer.pkl
+movie-recommend-python/movie_list.pkl
+movie-recommend-python/sentiment.pkl
+movie-recommend-python/similarity.pkl
+movie-recommend-python/vectorizer.pkl

@@ -1,0 +1,9 @@
+streamlit
+requests
+streamlit-player
+numpy
+scikit-learn
+pandas
+pickle
+nltk
+bs4
